@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+Thumbs.db
+*.psd
+*.aep
+*.prproj
+*.drp
+*.mov
+*.mp4
+*.mkv
+*.zip
